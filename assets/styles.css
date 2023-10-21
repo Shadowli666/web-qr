@@ -1,0 +1,14 @@
+.bg-color-gray{
+    background-color: #ebe5e5 ;
+    box-shadow: 1px 1px 10px black;
+}
+.bg-color-light-gray{
+    background-color: #e4dfdf ;
+}
+
+.content{
+    position:fixed; 
+    overflow:auto; 
+    width:100%; 
+    height:100%;
+}
